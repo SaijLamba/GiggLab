@@ -38,6 +38,9 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Behavioural Data\Extracted Behaviours\Darting",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Behavioural Data\Extracted Behaviours\Darting",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Behavioural Data\Extracted Behaviours\Darting",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Behavioural Data\Extracted Behaviours\Darting",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Behavioural Data\Extracted Behaviours\Darting",
+                    
                 },
                 "Freezing": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Acquisition\Behavioural Data\Extracted Behaviours\Freezing",
@@ -48,6 +51,9 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Behavioural Data\Extracted Behaviours\Freezing",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Behavioural Data\Extracted Behaviours\Freezing",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Behavioural Data\Extracted Behaviours\Freezing",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Behavioural Data\Extracted Behaviours\Freezing",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Behavioural Data\Extracted Behaviours\Freezing",
+                    
                 },
                 "Grooming": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Acquisition\Behavioural Data\Extracted Behaviours\Grooming",
@@ -58,6 +64,9 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Behavioural Data\Extracted Behaviours\Grooming",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Behavioural Data\Extracted Behaviours\Grooming",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Behavioural Data\Extracted Behaviours\Grooming",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Behavioural Data\Extracted Behaviours\Grooming",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Behavioural Data\Extracted Behaviours\Grooming",
+                    
                 },
                 "Position": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Acquisition\Behavioural Data\Extracted Behaviours\Position",
@@ -68,6 +77,9 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Behavioural Data\Extracted Behaviours\Position",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Behavioural Data\Extracted Behaviours\Position",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Behavioural Data\Extracted Behaviours\Position",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Behavioural Data\Extracted Behaviours\Position",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Behavioural Data\Extracted Behaviours\Position",
+                    
                 },
                 "Rearing": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Acquisition\Behavioural Data\Extracted Behaviours\Rearing",
@@ -78,6 +90,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Behavioural Data\Extracted Behaviours\Rearing",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Behavioural Data\Extracted Behaviours\Rearing",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Behavioural Data\Extracted Behaviours\Rearing",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Behavioural Data\Extracted Behaviours\Rearing",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Behavioural Data\Extracted Behaviours\Rearing",
                 },
                 "Velocity": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Acquisition\Behavioural Data\Extracted Behaviours\Velocity",
@@ -88,6 +102,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Behavioural Data\Extracted Behaviours\Velocity",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Behavioural Data\Extracted Behaviours\Velocity",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Behavioural Data\Extracted Behaviours\Velocity",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Behavioural Data\Extracted Behaviours\Velocity",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Behavioural Data\Extracted Behaviours\Velocity",
                 },
             },
             "Raw DLC Data": {
@@ -99,6 +115,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Behavioural Data\Raw DLC Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Behavioural Data\Raw DLC Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Behavioural Data\Raw DLC Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Behavioural Data\Raw DLC Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Behavioural Data\Raw DLC Data",
             },
             "SMM fitted data": {
                 "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Acquisition\Behavioural Data\SSM Fitted Data",
@@ -109,6 +127,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Behavioural Data\SSM Fitted Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Behavioural Data\SSM Fitted Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Behavioural Data\SSM Fitted Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Behavioural Data\SSM Fitted Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Behavioural Data\SSM Fitted Data",
             },
             "Traingulated Data": {
                 "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Acquisition\Behavioural Data\Triangulated Data",
@@ -119,6 +139,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Behavioural Data\Triangulated Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Behavioural Data\Triangulated Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Behavioural Data\Triangulated Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Behavioural Data\Triangulated Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Behavioural Data\Triangulated Data",
             },
             "Video Data": {
                 "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Acquisition\Behavioural Data\Video Data",
@@ -129,6 +151,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Behavioural Data\Video Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Behavioural Data\Video Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Behavioural Data\Video Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Behavioural Data\Video Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Behavioural Data\Video Data",
             },
         },
         "Extinction": {
@@ -142,6 +166,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Behavioural Data\Extracted Behaviours\Darting",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Behavioural Data\Extracted Behaviours\Darting",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Behavioural Data\Extracted Behaviours\Darting",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Behavioural Data\Extracted Behaviours\Darting",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Behavioural Data\Extracted Behaviours\Darting",
                 },
                 "Freezing": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Behavioural Data\Extracted Behaviours\Freezing",
@@ -152,6 +178,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Behavioural Data\Extracted Behaviours\Freezing",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Behavioural Data\Extracted Behaviours\Freezing",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Behavioural Data\Extracted Behaviours\Freezing",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Behavioural Data\Extracted Behaviours\Freezing",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Behavioural Data\Extracted Behaviours\Freezing",
                 },
                 "Grooming": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Behavioural Data\Extracted Behaviours\Grooming",
@@ -162,6 +190,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Behavioural Data\Extracted Behaviours\Grooming",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Behavioural Data\Extracted Behaviours\Grooming",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Behavioural Data\Extracted Behaviours\Grooming",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Behavioural Data\Extracted Behaviours\Grooming",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Behavioural Data\Extracted Behaviours\Grooming",
                 },
                 "Position": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Behavioural Data\Extracted Behaviours\Position",
@@ -172,6 +202,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Behavioural Data\Extracted Behaviours\Position",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Behavioural Data\Extracted Behaviours\Position",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Behavioural Data\Extracted Behaviours\Position",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Behavioural Data\Extracted Behaviours\Position",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Behavioural Data\Extracted Behaviours\Position",
                 },
                 "Rearing": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Behavioural Data\Extracted Behaviours\Rearing",
@@ -182,6 +214,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Behavioural Data\Extracted Behaviours\Rearing",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Behavioural Data\Extracted Behaviours\Rearing",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Behavioural Data\Extracted Behaviours\Rearing",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Behavioural Data\Extracted Behaviours\Rearing",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Behavioural Data\Extracted Behaviours\Rearing",
                 },
                 "Velocity": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Behavioural Data\Extracted Behaviours\Velocity",
@@ -192,6 +226,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Behavioural Data\Extracted Behaviours\Velocity",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Behavioural Data\Extracted Behaviours\Velocity",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Behavioural Data\Extracted Behaviours\Velocity",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Behavioural Data\Extracted Behaviours\Velocity",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Behavioural Data\Extracted Behaviours\Velocity",
                 },
             },
             "Raw DLC Data": {
@@ -203,6 +239,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Behavioural Data\Raw DLC Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Behavioural Data\Raw DLC Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Behavioural Data\Raw DLC Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Behavioural Data\Raw DLC Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Behavioural Data\Raw DLC Data",
             },
             "SMM fitted data": {
                 "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Behavioural Data\SSM Fitted Data",
@@ -213,6 +251,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Behavioural Data\SSM Fitted Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Behavioural Data\SSM Fitted Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Behavioural Data\SSM Fitted Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Behavioural Data\SSM Fitted Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Behavioural Data\SSM Fitted Data",
             },
             "Traingulated Data": {
                 "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Behavioural Data\Triangulated Data",
@@ -223,6 +263,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Behavioural Data\Triangulated Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Behavioural Data\Triangulated Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Behavioural Data\Triangulated Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Behavioural Data\Triangulated Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Behavioural Data\Triangulated Data",
             },
             "Video Data": {
                 "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Behavioural Data\Video Data",
@@ -233,6 +275,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Behavioural Data\Video Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Behavioural Data\Video Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Behavioural Data\Video Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Behavioural Data\Video Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Behavioural Data\Video Data",
             },
         
         },
@@ -247,6 +291,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Behavioural Data\Extracted Behaviours\Darting",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Behavioural Data\Extracted Behaviours\Darting",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Behavioural Data\Extracted Behaviours\Darting",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Behavioural Data\Extracted Behaviours\Darting",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Behavioural Data\Extracted Behaviours\Darting",
                 },
                 "Freezing": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Behavioural Data\Extracted Behaviours\Freezing",
@@ -257,6 +303,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Behavioural Data\Extracted Behaviours\Freezing",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Behavioural Data\Extracted Behaviours\Freezing",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Behavioural Data\Extracted Behaviours\Freezing",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Behavioural Data\Extracted Behaviours\Freezing",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Behavioural Data\Extracted Behaviours\Freezing",
                 },
                 "Grooming": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Behavioural Data\Extracted Behaviours\Grooming",
@@ -267,6 +315,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Behavioural Data\Extracted Behaviours\Grooming",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Behavioural Data\Extracted Behaviours\Grooming",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Behavioural Data\Extracted Behaviours\Grooming",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Behavioural Data\Extracted Behaviours\Grooming",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Behavioural Data\Extracted Behaviours\Grooming",
                 },
                 "Position": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Behavioural Data\Extracted Behaviours\Position",
@@ -277,6 +327,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Behavioural Data\Extracted Behaviours\Position",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Behavioural Data\Extracted Behaviours\Position",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Behavioural Data\Extracted Behaviours\Position",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Behavioural Data\Extracted Behaviours\Position",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Behavioural Data\Extracted Behaviours\Position",
                 },
                 "Rearing": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Behavioural Data\Extracted Behaviours\Rearing",
@@ -287,6 +339,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Behavioural Data\Extracted Behaviours\Rearing",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Behavioural Data\Extracted Behaviours\Rearing",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Behavioural Data\Extracted Behaviours\Rearing",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Behavioural Data\Extracted Behaviours\Rearing",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Behavioural Data\Extracted Behaviours\Rearing",
                 },
                 "Velocity": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Behavioural Data\Extracted Behaviours\Velocity",
@@ -297,6 +351,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Behavioural Data\Extracted Behaviours\Velocity",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Behavioural Data\Extracted Behaviours\Velocity",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Behavioural Data\Extracted Behaviours\Velocity",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Behavioural Data\Extracted Behaviours\Velocity",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Behavioural Data\Extracted Behaviours\Velocity",
                 },
             },
             "Raw DLC Data": {
@@ -308,6 +364,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Behavioural Data\Raw DLC Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Behavioural Data\Raw DLC Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Behavioural Data\Raw DLC Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Behavioural Data\Raw DLC Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Behavioural Data\Raw DLC Data",
             },
             "SMM fitted data": {
                 "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Behavioural Data\SSM Fitted Data",
@@ -318,6 +376,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Behavioural Data\SSM Fitted Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Behavioural Data\SSM Fitted Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Behavioural Data\SSM Fitted Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Behavioural Data\SSM Fitted Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Behavioural Data\SSM Fitted Data",
             },
             "Traingulated Data": {
                 "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Behavioural Data\Triangulated Data",
@@ -328,6 +388,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Behavioural Data\Triangulated Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Behavioural Data\Triangulated Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Behavioural Data\Triangulated Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Behavioural Data\Triangulated Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Behavioural Data\Triangulated Data",
             },
             "Video Data": {
                 "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Behavioural Data\Video Data",
@@ -338,6 +400,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Behavioural Data\Video Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Behavioural Data\Video Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Behavioural Data\Video Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Behavioural Data\Video Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Behavioural Data\Video Data",
             },
         
         },
@@ -352,6 +416,8 @@ data = {
             "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Combined Data",
             "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Combined Data",
             "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Combined Data",
+            "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Combined Data",
+            "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Combined Data",
         },
         "Extinction": {
             "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Combined Data",
@@ -362,6 +428,8 @@ data = {
             "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Combined Data",
             "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Combined Data",
             "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Combined Data",
+            "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Combined Data",
+            "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Combined Data",
         },
         "Renewal": {
             "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Combined Data",
@@ -372,6 +440,8 @@ data = {
             "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Combined Data",
             "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Combined Data",
             "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Combined Data",
+            "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Combined Data",
+            "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Combined Data",
         },
     },
     "Neural": {
@@ -385,6 +455,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Neural Data\Concatenated Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Neural Data\Concatenated Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Neural Data\Concatenated Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Neural Data\Concatenated Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Neural Data\Concatenated Data",
                 "kilosort4": {
                     "Mouse 2": r"",
                     "Mouse 3": r"",
@@ -405,6 +477,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Neural Data\Raw Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Neural Data\Raw Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Neural Data\Raw Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Neural Data\Raw Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Neural Data\Raw Data",
             },
             "Triggers": {
                 "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Acquisition\Neural Data\Triggers",
@@ -415,6 +489,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Acquisition\Neural Data\Triggers",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Acquisition\Neural Data\Triggers",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Acquisition\Neural Data\Triggers",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Acquisition\Neural Data\Triggers",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Acquisition\Neural Data\Triggers",
             },
         },
         "Extinction": {
@@ -427,6 +503,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Neural Data\Concatenated Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Neural Data\Concatenated Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Neural Data\Concatenated Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Neural Data\Concatenated Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Neural Data\Concatenated Data",
                 "kilosort4": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Neural Data\Concatenated Data\kilosort4",
                     "Mouse 3": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 3\Extinction\Neural Data\Concatenated Data\kilosort4",
@@ -436,6 +514,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Neural Data\Concatenated Data\kilosort4",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Neural Data\Concatenated Data\kilosort4",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Neural Data\Concatenated Data\kilosort4",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Neural Data\Concatenated Data\kilosort4",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Neural Data\Concatenated Data\kilosort4",
                 },
             },
             "Raw Data": {
@@ -448,6 +528,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Neural Data\Raw Data\mouse7_extinction_habituation",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Neural Data\Raw Data\mouse8_extinction_habituation",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Neural Data\Raw Data\mouse9_extinction_habituation",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Neural Data\Raw Data\mouse10_extinction_habituation",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Neural Data\Raw Data\mouse11_extinction_habituation",
                 },
                 "part 1": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Neural Data\Raw Data\mouse2_extinction_p1_2025-06-06_13-24-00",
@@ -458,6 +540,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Neural Data\Raw Data\mouse7_extinction_p1",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Neural Data\Raw Data\mouse8_extinction_p1",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Neural Data\Raw Data\mouse9_extinction_p1",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Neural Data\Raw Data\mouse10_extinction_p1",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Neural Data\Raw Data\mouse11_extinction_p1",
                 },
                 "part 2": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Neural Data\Raw Data\mouse2_extinction_p2_2025-06-06_13-48-21",
@@ -468,6 +552,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Neural Data\Raw Data\mouse7_extinction_p2",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Neural Data\Raw Data\mouse8_extinction_p2",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Neural Data\Raw Data\mouse9_extinction_p2",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Neural Data\Raw Data\mouse10_extinction_p2",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Neural Data\Raw Data\mouse11_extinction_p2",
                 },
             },
             "Triggers": {
@@ -480,6 +566,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Neural Data\Triggers\mouse 7_extinction_extracted_events.mat",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Neural Data\Triggers\mouse 8_extinction_extracted_events.mat",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Neural Data\Triggers\mouse 9_extinction_extracted_events.mat",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Neural Data\Triggers\mouse 10_extinction_extracted_events.mat",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Neural Data\Triggers\mouse 11_extinction_extracted_events.mat",
                 },
                 "Habituation": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Neural Data\Triggers\mouse2_extinction_habituation_triggers.mat",
@@ -490,6 +578,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Neural Data\Triggers\mouse7_extinction_habituation_triggers.mat",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Neural Data\Triggers\mouse8_extinction_habituation_triggers.mat",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Neural Data\Triggers\mouse9_extinction_habituation_triggers.mat",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Neural Data\Triggers\mouse10_extinction_habituation_triggers.mat",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Neural Data\Triggers\mouse11_extinction_habituation_triggers.mat",
                 },
                 "part 1": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Neural Data\Triggers\mouse2_extinction_p1_triggers.mat",
@@ -500,6 +590,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Neural Data\Triggers\mouse7_extinction_p1_triggers.mat",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Neural Data\Triggers\mouse8_extinction_p1_triggers.mat",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Neural Data\Triggers\mouse9_extinction_p1_triggers.mat",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Neural Data\Triggers\mouse10_extinction_p1_triggers.mat",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Neural Data\Triggers\mouse11_extinction_p1_triggers.mat",
                 },
                 "part 2": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Extinction\Neural Data\Triggers\mouse2_extinction_p2_triggers.mat",
@@ -510,6 +602,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Extinction\Neural Data\Triggers\mouse7_extinction_p2_triggers.mat",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Extinction\Neural Data\Triggers\mouse8_extinction_p2_triggers.mat",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Extinction\Neural Data\Triggers\mouse9_extinction_p2_triggers.mat",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Extinction\Neural Data\Triggers\mouse10_extinction_p2_triggers.mat",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Extinction\Neural Data\Triggers\mouse11_extinction_p2_triggers.mat",
                 },
             },
         },
@@ -523,6 +617,8 @@ data = {
                 "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Neural Data\Concatenated Data",
                 "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Neural Data\Concatenated Data",
                 "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Neural Data\Concatenated Data",
+                "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Neural Data\Concatenated Data",
+                "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Neural Data\Concatenated Data",
                 "kilosort4": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Neural Data\Concatenated Data\kilosort4",
                     "Mouse 3": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 3\Renewal\Neural Data\Concatenated Data\kilosort4",
@@ -532,6 +628,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Neural Data\Concatenated Data\kilosort4",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Neural Data\Concatenated Data\kilosort4",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Neural Data\Concatenated Data\kilosort4",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Neural Data\Concatenated Data\kilosort4",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Neural Data\Concatenated Data\kilosort4",
                 },
             },
             "Raw Data": {
@@ -544,6 +642,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Neural Data\Raw Data\mouse7_renewal_checkerboard",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Neural Data\Raw Data\mouse8_renewal_checkerboard",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Neural Data\Raw Data\mouse9_renewal_checkerboard",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Neural Data\Raw Data\mouse10_renewal_checkerboard",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Neural Data\Raw Data\mouse11_renewal_checkerboard",
                 },
                 "Habituation": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Neural Data\Raw Data\mouse2_renewal_habituation_2025-06-12_11-56-40",
@@ -554,6 +654,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Neural Data\Raw Data\mouse7_renewal_habituation",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Neural Data\Raw Data\mouse8_renewal_habituation",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Neural Data\Raw Data\mouse9_renewal_habituation",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Neural Data\Raw Data\mouse10_renewal_habituation",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Neural Data\Raw Data\mouse11_renewal_habituation",
                 },
                 "part 1": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Neural Data\Raw Data\mouse2_renewal_p1_2025-06-12_12-04-58",
@@ -564,6 +666,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Neural Data\Raw Data\mouse7_renewal_p1",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Neural Data\Raw Data\mouse8_renewal_p1",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Neural Data\Raw Data\mouse9_renewal_p1",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Neural Data\Raw Data\mouse10_renewal_p1",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Neural Data\Raw Data\mouse11_renewal_p1",
                 },
                 "part 2": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Neural Data\Raw Data\mouse2_renewal_p2_2025-06-12_12-28-14",
@@ -574,6 +678,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Neural Data\Raw Data\mouse7_renewal_p2",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Neural Data\Raw Data\mouse8_renewal_p2",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Neural Data\Raw Data\mouse9_renewal_p2",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Neural Data\Raw Data\mouse10_renewal_p2",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Neural Data\Raw Data\mouse11_renewal_p2",
                 },
             },
             "Triggers": {
@@ -586,6 +692,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Neural Data\Triggers\mouse7_renewal_checkerboard_triggers.mat",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Neural Data\Triggers\mouse8_renewal_checkerboard_triggers.mat",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Neural Data\Triggers\mouse9_renewal_checkerboard_triggers.mat",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Neural Data\Triggers\mouse10_renewal_checkerboard_triggers.mat",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Neural Data\Triggers\mouse11_renewal_checkerboard_triggers.mat",
                 },
                 "Extracted events": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Neural Data\Triggers\mouse 2_renewal_extracted_events.mat",
@@ -596,6 +704,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Neural Data\Triggers\mouse 7_renewal_extracted_events.mat",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Neural Data\Triggers\mouse 8_renewal_extracted_events.mat",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Neural Data\Triggers\mouse 9_renewal_extracted_events.mat",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Neural Data\Triggers\mouse 10_renewal_extracted_events.mat",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Neural Data\Triggers\mouse 11_renewal_extracted_events.mat",
                 },
                 "Habituation": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Neural Data\Triggers\mouse2_renewal_habituation_triggers.mat",
@@ -606,6 +716,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Neural Data\Triggers\mouse7_renewal_habituation_triggers.mat",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Neural Data\Triggers\mouse8_renewal_habituation_triggers.mat",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Neural Data\Triggers\mouse9_renewal_habituation_triggers.mat",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Neural Data\Triggers\mouse10_renewal_habituation_triggers.mat",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Neural Data\Triggers\mouse11_renewal_habituation_triggers.mat",
                 },
                 "part 1": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Neural Data\Triggers\mouse2_renewal_p1_triggers.mat",
@@ -616,6 +728,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Neural Data\Triggers\mouse7_renewal_p1_triggers.mat",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Neural Data\Triggers\mouse8_renewal_p1_triggers.mat",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Neural Data\Triggers\mouse9_renewal_p1_triggers.mat",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Neural Data\Triggers\mouse10_renewal_p1_triggers.mat",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Neural Data\Triggers\mouse11_renewal_p1_triggers.mat",
                 },
                 "part 2": {
                     "Mouse 2": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 2\Renewal\Neural Data\Triggers\mouse2_renewal_p2_triggers.mat",
@@ -626,6 +740,8 @@ data = {
                     "Mouse 7": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 7\Renewal\Neural Data\Triggers\mouse7_renewal_p2_triggers.mat",
                     "Mouse 8": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 8\Renewal\Neural Data\Triggers\mouse8_renewal_p2_triggers.mat",
                     "Mouse 9": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 9\Renewal\Neural Data\Triggers\mouse9_renewal_p2_triggers.mat",
+                    "Mouse 10": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 10\Renewal\Neural Data\Triggers\mouse10_renewal_p2_triggers.mat",
+                    "Mouse 11": r"Z:\Mike\Data\Psilocybin Fear Conditioning\Cohort 4_06_05_25 (SC PAG Implanted Animals)\Mouse 11\Renewal\Neural Data\Triggers\mouse11_renewal_p2_triggers.mat",
                 },
             },
         },
