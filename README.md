@@ -1,5 +1,5 @@
 # Read Me
-This repo is part of a Msci project looking at probe localisation with in vivo electrophysiology with Neuropixels 2.0
+This repo is part of a Msci project looking at probe localisation with in vivo electrophysiology with Neuropixels 2.0.
 This is done in the context of a broader experiment looking at the anxiolytic properties of Psilocybin by Micheal Hogan
 
 Current state of the repo is very messy and is going through a cleanup phase
