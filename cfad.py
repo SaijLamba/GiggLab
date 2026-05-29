@@ -1,30 +1,9 @@
-import matplotlib.pyplot as plt
-from pprint import pprint
-import scipy.io
-import numpy as np
-from pathlib import Path
-import spikeinterface as si  # import core only
-import spikeinterface.extractors as se
-import spikeinterface.preprocessing as spre
-import spikeinterface.sorters as ss
-import spikeinterface.postprocessing as spost
-import spikeinterface.qualitymetrics as sqm
-import spikeinterface.comparison as sc
-import spikeinterface.exporters as sexp
-import spikeinterface.curation as scur
-import spikeinterface.widgets as sw
-from pathlib import Path
-import re
-import os
-import probeinterface as pi
-import probeinterface.plotting as pi_plot
-import cfad 
-import json
+"""
+This initally was meant to be a utils/ common functions and data (hence cfad) file when spikeinterface was intially being utilised. Hence it contains a dictionary of paths labaled data needed for the rest of the project. However there are multiple issue for this firstly wtf dude bad coding practice to have all funcs and imports in one file. Secondly a dict for the paths was an incredibly bad choice for the relevant data structure to encode the paths, but it will remain as is for legacy/lazy reasons. Thirdly i was an idiot and did not spot that the paths followed a patter and I could instead write a function that generated the relevant paths when I needed them, once again unchanged due to legacy reasons
 
-global_job_kwargs = dict(n_jobs=4, chunk_duration="1s")
-si.set_global_job_kwargs(**global_job_kwargs)
-
-
+The spikeinterface elements and the imports have now been removed, as such this is just a .py file that stores the data dict and thats it, for security/optics this file will be git ignored, and for idiocy reasons the paths will continue to be updated/hard coded when needed. and in continuing the spirit of this the group data is also hard coded in here as a dict
+saij
+"""
 data = {
     "Behavioural": {
         "Aquisition": {
@@ -748,172 +727,18 @@ data = {
     }
 }
 
-def load_gain_from_oebin(recording_folder):
-    """
-    Parses structure.oebin to find the bit_volts (gain).
-    Accepts the folder path and automatically appends 'structure.oebin'.
-    """
-    # 1. Construct the full file path
-    oebin_path = os.path.join(recording_folder, "structure.oebin")
-    
-    # 2. Check if the FILE exists (not just the folder)
-    if not os.path.isfile(oebin_path):
-        # Fallback: check one level up (sometimes it sits in 'experiment1')
-        parent_dir = os.path.dirname(recording_folder)
-        parent_oebin = os.path.join(parent_dir, "structure.oebin")
-        if os.path.isfile(parent_oebin):
-            oebin_path = parent_oebin
-        else:
-            raise FileNotFoundError(f"structure.oebin not found at: {oebin_path}")
-
-    # 3. Load and Parse
-    with open(oebin_path, 'r') as f:
-        meta = json.load(f)
-    
-    # Look for the Neural stream (usually has the most channels)
-    # We loop through to find the one matching your channel count best, or just the largest
-    neural_gain = None
-    max_channels = 0
-    
-    for stream in meta.get('continuous', []):
-        n_chans = stream.get('num_channels', 0)
-        if n_chans > max_channels:
-            max_channels = n_chans
-            # Grab bit_volts from the first channel in the list
-            if len(stream['channels']) > 0:
-                neural_gain = stream['channels'][0]['bit_volts']
-    
-    if neural_gain is None:
-        raise ValueError("Could not find a valid neural stream in structure.oebin")
-    print(neural_gain)
-    return neural_gain
-
-def load_mice(start = 2, end = 9, rec = None, phase = None, slice = True):
-    """
-    Loads mice using a loop between start and end.
-    If kilosorted then creates probe and assigns probe object from each mice
-    Can build in to use raw ephys path to get probe info to avoid using ks
-    returns lists for recordings, sortings and triggers
-    fills initial elements of list with empty elements to line up iterations,
-    i.e if loaded mice 2-3 then recordings will be [None, None, Mouse 2, Mouse 3]
-    Done so the index needed to reference each mice is the same as mice number i.e recordings[2] = mice2 recording
-    
-    ToDo - 
-    make so if no path provided then function call throws an exception for rec 
-    smooth inputs for rec and phase to account for human error
-    overall needs to smoothen the ui (data dict may need to be reworked)
-    instead of array features need to orient to object oriented programming
-    decouple trigger loading and slicing logic
-
-    :param start: What mice to start at, default 2
-    :param end: What mice to end at, default 9
-    :param rec: type of recording (Habituation, part 1, part 2, or Checkerboard):
-    :param phase: experimental phase, i.e what part of experiment it is rec from, Aqusition, Renewal or Extinction, can't find associated recording without it
-    :param slice: Bool, default True, slice (and load) by triggers
-    """
-    recordings = []
-    sortings = []
-    triggers = []
-    fs = 30000
-    num_channels = 385
-    dtype = "int16"
-    buffer = 2 * fs
-    
 
 
-    for i in range(start):
-        recordings.append(None)
-        sortings.append(None)
-        triggers.append(None)
-    
-    for i in range(start, end + 1):
-        n = str(i)
-        print("Mouse " + n)
-        structure_path = data["Neural"][phase]["Raw Data"][rec]["Mouse " + n] + r"\Record Node 101\experiment1\recording1"
-        gain = load_gain_from_oebin(structure_path)
-        if slice:
-            triggers_path = data["Neural"][phase]["Triggers"][rec]
-            trigger = scipy.io.loadmat(triggers_path["Mouse " + n])
-            trigger = np.array(trigger["evt"]).flatten().astype(int)
-            #print(trigger)
-            triggers.append(trigger)
-
-        concat_kilosort = data["Neural"][phase]["Concatenated Data"]["kilosort4"]
-        ks_path = concat_kilosort["Mouse " + str(i)]
-        chan_pos_path = os.path.join(ks_path, "channel_positions.npy")
-        chan_map_path = os.path.join(ks_path, "channel_map.npy")
-        positions = np.load(chan_pos_path)
-        chan_map = np.load(chan_map_path)
-        chan_map = chan_map.flatten()
-
-        probe = pi.Probe(ndim = 2, si_units ="um")
-        probe.set_contacts(positions = positions, shapes = "square", shape_params = {"width": 12})
-        probe.set_device_channel_indices(chan_map)
-        probe.annotate(
-            name='Neuropixels 2.0', 
-            manufacturer='Imec', 
-            description='Custom layout from ks folder'
-        )
-
-
-        rec_path = data["Neural"][phase]["Concatenated Data"]
-        recording_path = rec_path["Mouse " + n] + r"\mouse" + n + r"_" + phase.lower() + r"_concatenated_neural_data.dat"
-        recording = se.read_binary(file_paths = recording_path, dtype = dtype, sampling_frequency= fs, num_channels= num_channels, gain_to_uV= gain, offset_to_uV= 0)
-        recording = recording.select_channels(channel_ids = np.arange(0, 384))
-        recording= recording.frame_slice(start_frame = trigger[0] - buffer, end_frame = trigger[-1] + buffer)
-        recording = recording.set_probe(probe, in_place=True)
-        #print(recording)
-        recordings.append(recording)
-
-        sorting = se.read_kilosort(concat_kilosort["Mouse " + n])
-        sorting = sorting.frame_slice(start_frame = trigger[0], end_frame = trigger[-1])
-        sorting.register_recording(recording= recording)
-        #print(sorting)
-        sortings.append(sorting)
-
-        print("Loaded")
-        print("Triggers from " + str(trigger[0]) + " to " + str(trigger[-1]))
-        print(recording)
-        print("recording start at " + str(recording.get_start_time()) + " seconds")
-        print("recording end at " + str(recording.get_end_time()) + " seconds")
-        init_trigger_time = trigger[0] / fs
-        last_trigger_time = trigger[-1] / fs
-        print("Trigger start at " + str(init_trigger_time) + " seconds")
-        print("Trigger final at " + str(last_trigger_time) + " seconds")
-        print(sorting)
-        print(probe)
-        print("\n")
-
-    return recordings, sortings, triggers
-
-
-def export_ibl(recording, sorting, mark, n):
-    """
-    creates sorting analzyer and exports to ibl for specific recording and sorting
-    mark denotes path mark, i.e checkerboard or habituation
-    
-    :param recording: recording object, best to pass a preprocessed recording
-    :param sorting: sorting object
-    :param mark: checkerboard or habituation, used to create output paths
-    :param n: mouse number
-    """
-    sorting_analyzer = si.create_sorting_analyzer(sorting=sorting, recording=recording)
-
-    # we need to compute some required extensions
-    sorting_analyzer.compute(['random_spikes', 'templates', 'spike_amplitudes', 'spike_locations', 'noise_levels', 'quality_metrics'])
-    # note that spike_locations are optional, but recommended to compute accurate spike depths
-
-    # optionally, we can pass an LFP recording to compute RMS/PSD in the LFP band
-    recording_lfp = spre.bandpass_filter(recording, freq_min=1, freq_max=300)
-    # we can also decimate the LFP to speed up the process
-    recording_lfp = spre.decimate(recording, 10)
-    path = r"Z:\Saij\ephys\Mouse " + str(n) + mark
-
-    sexp.export_to_ibl_gui(
-    sorting_analyzer=sorting_analyzer,
-    output_folder= path,
-    lfp_recording=recording_lfp,
-    n_jobs=-1
-    )
-
-    print("done")
+group = {
+    1: "Vehicle",
+    2: "Vehicle",
+    3: "Psilocybin",
+    4: "Vehicle",
+    5: "Psilocybin",
+    6: "Vehicle",
+    7: "Psilocybin",
+    8: "Psilocybin",
+    9: "Vehicle",
+    10: "Psilocybin",
+    11: "Vehicle"
+}
