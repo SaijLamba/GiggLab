@@ -172,4 +172,4 @@ run_localisation(
 
 ```
 
-The pipeline utilises [BrainGlobe Atlas Api] (https://brainglobe.info/documentation/brainglobe-atlasapi/index.html) to sample within the allen ccf to find region information for each channel
+The pipeline utilises [BrainGlobe Atlas Api](https://brainglobe.info/documentation/brainglobe-atlasapi/index.html) to sample within the allen ccf to find region information for each channel
