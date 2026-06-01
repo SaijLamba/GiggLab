@@ -29,7 +29,7 @@ def run_sc_pipeline(file_path, ks_dir, triggers, mouse, PARAMS, save_dir=None, f
     # 2. CALIBRATION
     print("Step 2: Calibrating (Detecting Bad Channels)...")
     processor = NeuropixelsProcessor(384, PARAMS)
-    mm = np.memmap(file_path, dtype='int16', mode='r', 
+    mm = np.memmap(file_path, dtype='int16', mode='r', pr
                    shape=(os.path.getsize(file_path)//(385*2), 385))
     
     calib_start = 30000 * 60 
